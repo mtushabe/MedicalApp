@@ -8,6 +8,7 @@ This application consists of one UI using which the users do interactions with t
 
 INSTALLATION:
 Tools: Eclipse
+
 Download the project and import it into Eclipse IDE, right click on it and run as a SpringBoot project.
 If the build is successfull it will show which port it will be running on, Type that port into the browser and you will be 
 able to access the system.
